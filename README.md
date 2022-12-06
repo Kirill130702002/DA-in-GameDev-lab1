@@ -42,35 +42,19 @@
 ![image](https://user-images.githubusercontent.com/104893843/205975136-c1f549fa-3723-4c4b-89e1-28f275601a82.png)
 
 
-
-Ход работы:
-- Произвести подготовку данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
-
-```py
-
-In [ ]:
-#Import the required modules, numpy for calculation, and Matplotlib for drawing
-import numpy as np
-import matplotlib.pyplot as plt
-#This code is for jupyter Notebook only
-%matplotlib inline
-
-# define data, and change list to array
-x = [3,21,22,34,54,34,55,67,89,99]
-x = np.array(x)
-y = [2,22,24,65,79,82,55,130,150,199]
-y = np.array(y)
-
-#Show the effect of a scatter plot
-plt.scatter(x,y)
-
-```
-
-- Определите связанные функции. Функция модели: определяет модель линейной регрессии wx+b. Функция потерь: функция потерь среднеквадратичной ошибки. Функция оптимизации: метод градиентного спуска для нахождения частных производных w и b.
-
-
 ## Задание 2
 Ссылка на ipynb http://localhost:8888/notebooks/Анализ%20данных_УрФУ/Лабораторная%20работа%201%20(шаг%202).ipynb из Jupyter notebook Prediction с кол-вом итераций увеличивает свою точность.
+
+![image](https://user-images.githubusercontent.com/104893843/205989622-b0d4f13a-e40a-43f1-a7f4-24589d8b438d.png)
+![image](https://user-images.githubusercontent.com/104893843/205989664-ce101601-ba53-44ed-94e3-6e102cb1bc05.png)
+![image](https://user-images.githubusercontent.com/104893843/205989708-41a10576-5599-4c77-85d3-c22f12152271.png)
+![image](https://user-images.githubusercontent.com/104893843/205989783-128b52a5-156b-46f3-980e-5cad8bd742b5.png)
+![image](https://user-images.githubusercontent.com/104893843/205989838-3ac623a0-91a0-430f-b8af-33d768711bdc.png)
+![image](https://user-images.githubusercontent.com/104893843/205989882-864b2439-005d-4d98-a338-89ca9cc1291a.png)
+![image](https://user-images.githubusercontent.com/104893843/205989933-55d7cdbe-8303-4c45-b6e2-c0edebc7ad72.png)
+![image](https://user-images.githubusercontent.com/104893843/205989974-0e0a785b-cadc-4740-8364-bed19ecd0920.png)
+![image](https://user-images.githubusercontent.com/104893843/205990031-10575f94-98be-42f5-a8fa-c6c8c0568d92.png)
+
 
 
 
