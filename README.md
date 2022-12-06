@@ -38,7 +38,9 @@
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
 
 ![image](https://user-images.githubusercontent.com/104893843/205671922-0fd8fa83-5145-43bc-9052-5ca0c237d5e3.png)
-![image](https://user-images.githubusercontent.com/104893843/205672766-6682f2ca-e9e2-46a7-8c71-3bae0c41267d.png)
+![image](https://user-images.githubusercontent.com/104893843/205975039-ba9d2d84-d2c7-4850-810a-29f7892ab695.png)
+![image](https://user-images.githubusercontent.com/104893843/205975136-c1f549fa-3723-4c4b-89e1-28f275601a82.png)
+
 
 
 Ход работы:
